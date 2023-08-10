@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-<!--
-**LiliyaSemenenko/LiliyaSemenenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I am Liliya Semenenko 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Liliya_Semenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liliya-semenenko-/)](https://www.linkedin.com/in/liliya-semenenko-/)
+[![Gmail Badge](https://img.shields.io/badge/-liliacareer99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liliacareer99@gmail.com)](mailto:liliacareer99@gmail.com) 
+
+- 👩‍💻 Backend Developer.
+- 🔭 I’m currently working on a [Recipe Website](https://github.com/LiliyaSemenenko/recipe-app-api).
+- 🌱 Learning more about Django, JS, Deployment, and Algorithms.
+- ⚡️ Fun fact: I love playing chess. Check out my chess engine [Liliya_Bot](https://github.com/LiliyaSemenenko/Chess_Engine)!
+    
+🛠**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-000000?style=flat&logo=openapi)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  
+![React JS](https://img.shields.io/badge/-React%20JS-000000?style=flat&logo=react)  
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![MATLAB](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
+![SAS](https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
