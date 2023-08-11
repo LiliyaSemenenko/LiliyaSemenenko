@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Liliya_Semenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liliya-semenenko-/)](https://www.linkedin.com/in/liliya-semenenko-/)
 [![Gmail Badge](https://img.shields.io/badge/-liliacareer99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liliacareer99@gmail.com)](mailto:liliacareer99@gmail.com) 
 
-<img align="right" src="https://github.com/LiliyaSemenenko/LiliyaSemenenko/blob/main/coding_girl.gif" alt="Coder GIF" width="415" height="330">
+<img align="right" src="https://github.com/LiliyaSemenenko/LiliyaSemenenko/blob/main/coding_girl.gif" alt="Coder GIF" width="410" height="330">
 
 
 - 👩‍💻 Backend Developer in Django.
