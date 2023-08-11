@@ -20,6 +20,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-000000?style=flat&logo=openapi)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=FCC624)
+![uWSGI](https://img.shields.io/badge/-uWSGI-000000?style=flat&logo=uwsgi&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FCC624)
+![docker-compose](https://img.shields.io/badge/-docker_compose-000000?style=flat&logo=docker-compose&logoColor=FCC624)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  
 ![React JS](https://img.shields.io/badge/-React%20JS-000000?style=flat&logo=react)  
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -33,3 +37,4 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
