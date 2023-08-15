@@ -32,6 +32,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=matlab)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 ![SAS](https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=jupyter)
 <br>
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
