@@ -19,6 +19,7 @@
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-000000?style=flat&logo=openapi)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=FCC624)
 ![uWSGI](https://img.shields.io/badge/-uWSGI-000000?style=flat&logo=uwsgi&logoColor=FCC624)
