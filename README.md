@@ -8,9 +8,9 @@
 
 - 👩‍💻 Backend Developer in Django.
 - 💼 Currently open for a new **job opportunity**. [Email me](mailto:liliacareer99@gmail.com) for my **resume**.
-- 🔭 I’m currently working on a [Recipe Website](https://github.com/LiliyaSemenenko/recipe-app-api).
+- 🔭 I’m currently working on a [**Recipe Website**](https://github.com/LiliyaSemenenko/recipe-app-api).
 - 🌱 Learning more about Django, JS, Deployment, and Algorithms.
-- ♟️ Fun fact: I love playing chess. Check out my [Chess Engine](https://github.com/LiliyaSemenenko/Chess_Engine)!
+- ♟️ Fun fact: I love playing chess. Check out my [**Chess Engine**](https://github.com/LiliyaSemenenko/Chess_Engine)!
     
 🛠**Tech Stack**
 
