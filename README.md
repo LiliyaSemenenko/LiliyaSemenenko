@@ -6,35 +6,51 @@
 <img align="right" src="https://github.com/LiliyaSemenenko/LiliyaSemenenko/blob/main/coding_girl.gif" alt="Coder GIF" width="425" height="330">
 
 
-- 👩‍💻 Backend Developer in Django.
-- 💼 Currently open for a new **job opportunity**. [Email me](mailto:liliacareer99@gmail.com) for my **resume**.
+- 👩‍💻 Full Stack Developer in PHP Laravel.
+- 💼 For **job opportunities**, [email me](mailto:liliacareer99@gmail.com) for my **resume**.
 - 🔭 I’m currently working on a [**Recipe Website**](https://github.com/LiliyaSemenenko/recipe-app-api).
-- 🌱 Learning more about Django, JS, Deployment, and Algorithms.
+- 🌱 Learning more about Machine Learning and Algorithms.
 - ♟️ Fun fact: I love playing chess. Check out my [**Chess Engine**](https://github.com/LiliyaSemenenko/Chess_Engine)!
     
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-000000?style=flat&logo=openapi)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx&logoColor=FCC624)
+##### 🧠 Data Science & ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-1E4B5A?style=flat&logo=SAS&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+##### 💻 Backend Development
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white)
 ![uWSGI](https://img.shields.io/badge/-uWSGI-000000?style=flat&logo=uwsgi&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FCC624)
-<br>
-![docker-compose](https://img.shields.io/badge/-docker_compose-000000?style=flat&logo=docker-compose&logoColor=FCC624)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  ![React JS](https://img.shields.io/badge/-React%20JS-000000?style=flat&logo=react)  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=matlab)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
-![SAS](https://img.shields.io/badge/-SAS-000000?style=flat&logo=SAS)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=jupyter)
-<br>
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+##### 🛢️ Databases & Environments
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+##### 🌐 APIs & Tools
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-85EA2D?style=flat&logo=openapi&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+##### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+##### 🎨 Frontend & Styling
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
